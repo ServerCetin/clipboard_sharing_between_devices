@@ -1,0 +1,12 @@
+run get_clipboard for getting clipboard from API
+
+run send_clipboard for sending clipboard to API
+
+
+
+DO NOT MODIFY FILE NAMES AND LOCATIONS
+
+IF YOU MODIFY FILE LOCATIONS YOU MUST MODIFY .bat AND .ps1 FILE TOGETHER! 
+
+IF YOU MODIFIED MAKE SURE CHANGE THE FILE LOCATION
+IN THE .BAT FILES
