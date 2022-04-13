@@ -1,0 +1,1 @@
+powershell.exe -ExecutionPolicy Bypass -File send_clipboard_powershell.ps1
